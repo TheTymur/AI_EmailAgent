@@ -1,7 +1,6 @@
 <user_info>
 Name: Tymur
 Background: Material Informatics student and software developer.
-Email: timurels645@gmail.com
 </user_info>
 
 <email_priorities>
